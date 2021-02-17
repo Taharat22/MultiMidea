@@ -1,0 +1,142 @@
+SplineFontDB: 3.2
+FontName: Untitled1
+FullName: Untitled1
+FamilyName: Untitled1
+Weight: Regular
+Copyright: Copyright (c) 2021, HP
+UComments: "2021-2-17: Created with FontForge (http://fontforge.org)"
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 800
+Descent: 200
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+XUID: [1021 728 2093639154 19541]
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1613557533
+ModificationTime: 1613565922
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 0
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+DEI: 91125
+Encoding: UnicodeBmp
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 38 38 12
+BeginChars: 65536 1
+
+StartChar: uni0995
+Encoding: 2453 2453 0
+Width: 1000
+Flags: HO
+LayerCount: 2
+Fore
+SplineSet
+851 462 m 5
+ 681 438 l 4
+ 681 438 l 4
+ 681 438 l 4
+ 783 321 l 4
+ 783 321 l 4
+ 851 462 l 4
+ 851 462 l 5
+444 755 m 5
+ 444 754 l 4
+ 444 754 l 4
+ 444 755 l 4
+ 444 755 l 4
+ 444 755 l 4
+ 530 64 l 4
+ 530 64 l 4
+ 530 64 l 4
+ 533 58 l 4
+ 533 58 l 4
+ 533 58 l 4
+ 533 58 l 4
+ 530 64 l 4
+ 535 763 l 4
+ 534.732421875 763.400390625 535 763 535 763 c 4
+ 535 763 l 5
+ 535 763 l 4
+ 851 462 l 4
+ 851 462 l 4
+ 534 665 l 4
+ 534 665 l 4
+ 534 665 l 4
+ 534 665 l 1029
+992 800 m 5
+ 992 800 l 4
+ 992 800 l 4
+ 992 800 l 4
+ 992 800 l 4
+ 992 800 l 4
+ 992 800 l 4
+ 992 800 l 4
+ 992 800 l 4
+ 20 800 l 4
+ 20 800 l 4
+ 20 800 l 4
+ 20 800 l 4
+ 20 800 l 4
+ 20 800 l 4
+ 20 800 l 5
+ 22 722 l 4
+ 26 722 l 4
+ 22 722 22 722 22 722 c 4
+ 22 722 l 4
+ 22 722 l 4
+ 22 722 l 4
+ 992 800 l 4
+ 992 798 l 4
+ 992 798 l 4
+ 992 798 l 4
+ 992 798 l 1029
+83 384 m 4
+ 83 384 l 4
+ 83 384 l 4
+ 83 384 l 4
+ 444 755 l 4
+ 444 755 l 4
+ 444 755 l 5
+ 444 755 l 4
+ 444 755 l 4
+ 444 755 l 4
+ 11 435 l 4
+ 11 435 l 4
+ 11 435 l 4
+ 11 435 l 4
+ 11 435 l 4
+ 467 6 l 4
+ 467 6 l 4
+ 533 58 l 4
+ 533 58 l 4
+ 533 58 l 4
+ 533 58 l 4
+ 533 58 l 4
+ 533 58 l 4
+ 11 435 l 4
+ 9 435 l 1029
+EndSplineSet
+EndChar
+EndChars
+EndSplineFont
